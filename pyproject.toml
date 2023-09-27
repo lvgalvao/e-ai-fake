@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "e-ai-fake"
+version = "0.1.0"
+description = ""
+authors = ["lvgalvaofilho <lvgalvaofilho@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "e_ai_fake" }]
+
+[tool.poetry.dependencies]
+python = "3.11.3"
+faker = "^19.6.2"
+pandas = "^2.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
