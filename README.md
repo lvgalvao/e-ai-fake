@@ -1,6 +1,6 @@
 # E ai Fake
 
-Somente um projeto exemplo com alguns exemplos do uso do Faker
+somente um projeto fake
 
 ## Fake_medical.py
 
